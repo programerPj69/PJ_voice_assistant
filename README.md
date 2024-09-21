@@ -39,10 +39,16 @@ Make sure you have the following installed:
    pip install pyaudio
 ```
 ### if you use flask
-```pip install flask ```
+```
+pip install flask
+```
 
-- `python voice_assistant.py`
-- `python flask_voiceassistat.py`
+- `
+   python voice_assistant.py
+  `
+- `
+  python flask_voiceassistat.py
+  `
 ## Usage
 -Say "hello" and the assistant will greet you.
 -Say "exit" to stop the assistant.
