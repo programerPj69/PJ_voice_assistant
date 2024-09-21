@@ -44,5 +44,5 @@ Make sure you have the following installed:
 ### Future Improvements
 - Add more voice commands.
  Integrate additional features like opening websites, getting weather updates, or playing music.
-
-
+## Output
+![logo](output.png)
