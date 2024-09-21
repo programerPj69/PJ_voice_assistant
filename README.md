@@ -15,6 +15,8 @@ Make sure you have the following installed:
   - `SpeechRecognition`
   - `pyttsx3`
   - `pyaudio`
+  - if you are using (usingFask_voiceAssistant.py)
+  - `flask`
 
 ## Installation
 
@@ -46,3 +48,6 @@ Make sure you have the following installed:
  Integrate additional features like opening websites, getting weather updates, or playing music.
 ## Output
 ![logo](output.png)
+
+## Output of Flask
+![testimg](FlaskView.png)
